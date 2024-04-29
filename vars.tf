@@ -1,5 +1,5 @@
 variable "parameters1" {
   default = [
-    {name= "test", type="string" ,value="abcd123"}
+    {name= "test", type="String" ,value="abcd123"}
   ]
 }
